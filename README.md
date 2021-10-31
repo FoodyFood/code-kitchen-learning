@@ -61,8 +61,10 @@ Congratulations, you just made and edited a website.
 
 Try adding some more paragraphs, try googling ''how to make text bold in a html webpage'' to see how to make things bold.
 
-Try adding some pictures:
+Try adding this code at the bottom to add a picture:
 
+```html
 <img src="https://foodyfood.cloud/images/logo.png" alt="A Yummy Cookie">
+```
 
 And always reach out if you need help or get stuck!
